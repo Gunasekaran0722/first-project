@@ -1,0 +1,32 @@
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius:10px ;
+    
+
+    
+}
+
+.qrcode{
+    width: 300px;
+    border: solid white;
+    padding: 10px 10px 10px 10px ;
+    margin-left: 40%;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 30px;
+    
+
+}
+
+.hhh{
+    padding-left: 20px;
+}
+
+.top{
+    
+}
+
+body{
+    background-color: lightblue;
+}
